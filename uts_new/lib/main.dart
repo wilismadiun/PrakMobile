@@ -1,9 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:uts_new/page/login.dart';
-import 'package:uts_new/page/menu.dart';
-import 'package:uts_new/page/profile.dart';
-import 'package:vector_math/vector_math_lists.dart';
 
 void main() => runApp(MyApp());
 

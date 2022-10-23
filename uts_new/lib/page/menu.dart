@@ -2,7 +2,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:uts_new/data/member.dart';
-import 'package:uts_new/page/login.dart';
 import 'package:uts_new/page/profile.dart';
 
 class menu extends StatelessWidget {

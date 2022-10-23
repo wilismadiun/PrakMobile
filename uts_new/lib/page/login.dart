@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uts_new/data/member.dart';
 import 'package:uts_new/page/menu.dart';
-import 'package:uts_new/page/profile.dart';
 
 class loginpage extends StatefulWidget {
   const loginpage({Key? key}) : super(key: key);
